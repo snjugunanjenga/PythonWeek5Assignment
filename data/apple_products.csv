@@ -1,0 +1,11 @@
+Product Type,Model Name,Storage Capacity,Color,Price,Operating System,Details
+iPhone,iPhone 12,128GB,Black,799,iOS 14,iPhone | Model: iPhone 12 | Storage: 128GB | Color: Black | Price: $799 | OS: iOS 14 | Camera: 12MP
+iPhone,iPhone 13,256GB,White,899,iOS 15,iPhone | Model: iPhone 13 | Storage: 256GB | Color: White | Price: $899 | OS: iOS 15 | Camera: 12MP Dual
+iPhone,iPhone SE,64GB,Red,399,iOS 15,iPhone | Model: iPhone SE | Storage: 64GB | Color: Red | Price: $399 | OS: iOS 15 | Camera: 12MP
+iPhone,iPhone 14 Pro,512GB,Deep Purple,1099,iOS 16,iPhone | Model: iPhone 14 Pro | Storage: 512GB | Color: Deep Purple | Price: $1099 | OS: iOS 16 | Camera: 48MP
+iPad,iPad Pro,256GB,Space Gray,1099,iPadOS 15,iPad | Model: iPad Pro | Storage: 256GB | Color: Space Gray | Price: $1099 | OS: iPadOS 15 | Apple Pencil Supported
+iPad,iPad Air,64GB,Silver,599,iPadOS 15,iPad | Model: iPad Air | Storage: 64GB | Color: Silver | Price: $599 | OS: iPadOS 15 | No Apple Pencil Support
+iPad,iPad Mini,64GB,Gold,499,iPadOS 15,iPad | Model: iPad Mini | Storage: 64GB | Color: Gold | Price: $499 | OS: iPadOS 15 | No Apple Pencil Support
+MacBook,MacBook Air,256GB,Gold,999,macOS Monterey,MacBook | Model: MacBook Air | Storage: 256GB | Color: Gold | Price: $999 | OS: macOS Monterey | Processor: M1
+MacBook,MacBook Pro 13,512GB,Space Gray,1299,macOS Monterey,MacBook | Model: MacBook Pro 13 | Storage: 512GB | Color: Space Gray | Price: $1299 | OS: macOS Monterey | Processor: M1
+MacBook,MacBook Pro 16,1TB,Silver,2399,macOS Monterey,MacBook | Model: MacBook Pro 16 | Storage: 1TB | Color: Silver | Price: $2399 | OS: macOS Monterey | Processor: Intel i9
