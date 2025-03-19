@@ -146,26 +146,7 @@ def main():
     # Create dummy data for 20 bank members
     members = create_dummy_bank_members()
     
-    # Display the list of member names
-    print("List of Bank Members:")
-    for member in members:
-        print(f" - {member.name}")
-    
-    # Allow user to repeatedly view member details until they choose to exit
-    while True:
-        chosen_name = input("\nEnter the name of the bank member to display their account details (or type 'exit' to quit): ").strip()
-        if chosen_name.lower() == "exit":
-            break
-        selected_member = next((member for member in members if member.name.lower() == chosen_name.lower()), None)
-        if selected_member:
-            print("\nMember Details:")
-            print(selected_member.display_member_info())
-        else:
-            print(f"No bank member found with the name '{chosen_name}'.")
-    
-    # Save all bank member data to CSV
-    save_bank_members_to_csv(members)
-    print("\nBank member data saved to 'data/bank_members.csv'.")
+
 
 if __name__ == "__main__":
     main()
